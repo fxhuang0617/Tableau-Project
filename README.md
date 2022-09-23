@@ -4,3 +4,4 @@
 
 1. Revenue per State
 We have to use 'total' column as the row and 'State' as the column to create a map chart. The map chart can show us the total revenue for each state.
+![Image](Tableau_pic/Revenue per State.png)
