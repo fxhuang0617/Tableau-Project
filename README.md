@@ -28,3 +28,10 @@ Then we use dual axis for two pie charts to merge together.
 6. Revenue per Category per Gender
 In this task, we can just put 'Gender' and 'Total' as columns and put 'Category' into row. And it will display like the following graph.
 ![image](https://github.com/fxhuang0617/Tableau-Project/blob/main/Tableau_pic/Revenue%20each%20gender%20in%20category.png)
+In this display we can hardly to compare the difference between two genders of the overall revenue in each category. In order to have a more easy and comparable way to visualize the result, we would like to use a butterfly chart to represent it. In the butterfly chart we have to caclutae the total revevue for each gender seperately. And we reverse the direction of the female total revenue and add a zeroaxis between two gender graphs to put a category list. The result will like the following graph.
+![image](https://github.com/fxhuang0617/Tableau-Project/blob/main/Tableau_pic/Revenue%20based%20on%20Gender.png)
+
+## Dashboard
+We like to summarize all of the tasks together to distribute to clients. The way we can do is building a dashboard report and create an interactive surface to give client a direct way to have the insight from different aspects.
+![image](https://github.com/fxhuang0617/Tableau-Project/blob/main/Tableau_pic/Dashboard.png)
+At the top of the dashboard, users can select category to see the corresponding graphs and numberws by the following tasks. Also, users can directly click on one of the task to see the corresponding insight on others tasks.
